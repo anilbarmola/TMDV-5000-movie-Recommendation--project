@@ -1,0 +1,18 @@
+Follwing are the steps which I am going to take while doing this project
+EDA
+   a. get data (Done)
+   b. check null(Done)
+   c. check duplicate values(Done)
+   d. fetch related column(Done)
+   e. preproceing (Done)
+MODEL BUILDING 
+     a. buling a model(vactorization) (done)
+     b. Bag of words(done)
+     c.
+
+WEBSITE 
+     a. design a webpage
+     b. test the model on local server
+DEPLOYMENT
+    a. Deploy the app  on heruku server
+    b. 
