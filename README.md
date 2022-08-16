@@ -1,6 +1,6 @@
 # TMDV-5000-movie-Recomndation-project
 
-Here I am build a Machine Leanning Model for Movie Recomndation Based on TMDV data set
+Here I am build a Machine Leanning Model for Movie Recommendation  Based on TMDV data set
 
 ## DataSet: 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/download?datasetVersionNumber=2
