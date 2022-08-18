@@ -3,6 +3,7 @@
 
 
 # Aim of the project
+Ever wondered how Netflix or Hotstar recommends new movies based on the watch history, how Amazon or Flipkart suggests new products based on your order or search history? In this machine learning project, I build a recommendation system from the ground up to suggest movies to the user based on his/her preferences.
 
 ## DataSet: 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/download?datasetVersionNumber=2
